@@ -1,0 +1,44 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# TypeScript build outputs
+dist/
+build/
+lib/
+
+# TypeScript declaration map files
+*.d.ts.map
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Editor directories and settings
+.vscode/
+.idea/
+.fleet
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Optional npm caches
+.npm/
+
+# ESLint cache
+.eslintcache
+
+# Prettier cache
+.prettiercache
+
+# Coverage directory
+coverage/
+
+# Debugger working directories
+.vscode-test/
