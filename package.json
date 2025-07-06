@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "src/index.ts",
   "scripts": {
-    "test": "vitest"
+    "test": "vitest",
+     "make": "ts-node scripts/generate-problem-files.ts"
   },
   "keywords": [],
   "author": "",
